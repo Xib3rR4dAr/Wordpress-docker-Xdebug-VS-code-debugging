@@ -6,3 +6,5 @@ new_project.sh somename
 cd TemplateDocker/docker
 docker-compose up
 ```
+
+Use docker with WSL or Linux.
